@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Jika Anda menggunakan dataset ini, mohon sitasi menggunakan metadata berikut."
+title: "Wayang-Dataset: Wayang Kulit Purwa Character Classification Dataset"
+version: 1.0.0
+date-released: 2026-07-18
+authors:
+  - family-names: "[Isi Nama Belakang]"
+    given-names: "[Isi Nama Depan]"
+    affiliation: "Universitas Muhammadiyah Malang"
+  - family-names: "Aditya"
+    given-names: "Christian Sri Kusuma"
+    affiliation: "Universitas Muhammadiyah Malang"
+repository-code: "https://github.com/[username]/Wayang-Dataset"
+license: "CC-BY-NC-4.0"
+keywords:
+  - "wayang kulit"
+  - "image classification"
+  - "deep learning"
+  - "cultural heritage"
+  - "computer vision"
+  - "Indonesia"
+abstract: >
+  Dataset citra wayang kulit purwa untuk klasifikasi 8 karakter (Pandawa
+  Lima dan Punakawan): Arjuna, Bagong, Bima, Gareng, NakulaSadewa, Petruk,
+  Semar, dan Yudhistira. Total 967 citra dikumpulkan melalui scraping,
+  unduhan manual, dan tangkapan layar dari beberapa platform publik
+  (Pinterest, Google Images, Instagram, Shopee, Tokopedia, dan kompilasi
+  daring Album Wayang Indonesia). Disusun untuk mendukung riset klasifikasi
+  citra berbasis transfer learning dengan analisis Explainable AI (Grad-CAM,
+  feature ablation).

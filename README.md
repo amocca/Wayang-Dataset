@@ -97,7 +97,7 @@ python scripts/verify_dataset.py
 Jika Anda menggunakan dataset ini dalam riset, mohon sitasi sesuai `CITATION.cff`, atau:
 
 ```
-[Nama Penulis]. (2026). Wayang-Dataset: Wayang Kulit Purwa Character Classification Dataset (v1.0.0) [Data set].
+[Fathimatuz Z.]. (2026). Wayang-Dataset: Wayang Kulit Purwa Character Classification Dataset (v1.0.0) [Data set].
 GitHub. https://github.com/[username]/Wayang-Dataset
 ```
 

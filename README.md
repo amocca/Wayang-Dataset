@@ -57,12 +57,9 @@ Wayang-Dataset/
 │   │   └── ... (struktur kelas sama seperti train)
 │   └── test/
 │       └── ... (struktur kelas sama seperti train)
-├── annotations/
-│   └── provenance.csv
-├── scripts/
-│   └── verify_dataset.py
-└── docs/
-    └── annotation_guidelines.md
+├── provenance.csv
+├── verify_dataset.py
+└── annotation_guidelines.md
 ```
 
 ## Pembagian Data (Split)

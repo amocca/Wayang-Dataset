@@ -68,7 +68,7 @@ Wayang-Dataset/
 ## Pembagian Data (Split)
 
 <!-- TODO: isi rasio split aktual, mis. 70% train / 15% val / 15% test -->
-Rasio pembagian train/val/test: **[isi di sini, mis. 70/15/15]**. Pembagian dilakukan secara stratified per kelas untuk menjaga proporsi antar kelas tetap konsisten di setiap subset.
+Rasio pembagian train/val/test: **[isi di sini, mis. 80/10/10]**. Pembagian dilakukan secara stratified per kelas untuk menjaga proporsi antar kelas tetap konsisten di setiap subset.
 
 ## Lisensi
 

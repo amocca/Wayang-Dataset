@@ -98,7 +98,7 @@ Jika Anda menggunakan dataset ini dalam riset, mohon sitasi sesuai `CITATION.cff
 
 ```
 [Fathimatuz Z.]. (2026). Wayang-Dataset: Wayang Kulit Purwa Character Classification Dataset (v1.0.0) [Data set].
-GitHub. https://github.com/[amocca]/Wayang-Dataset
+GitHub. https://github.com/amocca/Wayang-Dataset
 ```
 
 ## Kontak

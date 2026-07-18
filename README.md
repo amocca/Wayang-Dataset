@@ -76,12 +76,12 @@ from pathlib import Path
 data_dir = Path("data/train")
 classes = sorted(os.listdir(data_dir))
 print(classes)
-# ['Arjuna', 'Bagong', 'Bima', 'Gareng', 'NakulaSadewa', 'Petruk', 'Semar', 'Yudhistira']
+# ['ARJUNA', 'BAGONG', 'BIMA', 'GARENG', 'NAKULASADEWA', 'PETRUK', 'SEMAR', 'YUDHISTIRA']
 ```
 
 Verifikasi integritas file setelah mengunduh:
 ```bash
-python scripts/verify_dataset.py
+python verify_dataset.py
 ```
 
 ## Sitasi

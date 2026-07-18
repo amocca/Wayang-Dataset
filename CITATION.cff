@@ -4,8 +4,8 @@ title: "Wayang-Dataset: Wayang Kulit Purwa Character Classification Dataset"
 version: 1.0.0
 date-released: 2026-07-18
 authors:
-  - family-names: "[Fathimatuz]"
-    given-names: "[Zahra]"
+  - family-names: "Fathimatuz"
+    given-names: "Zahra"
     affiliation: "Universitas Muhammadiyah Malang"
 repository-code: "https://github.com/amocca/Wayang-Dataset"
 license: "CC-BY-NC-4.0"

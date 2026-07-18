@@ -1,0 +1,17 @@
+image_id,class_label,collection_method,source_platform,source_url,provenance_confidence,notes
+arjuna_0001,Arjuna,manual_download,Pinterest,,platform-level only,
+arjuna_0002,Arjuna,scraping,Google Images,,platform-level only,
+arjuna_0003,Arjuna,manual_download,Blog Aggregator,https://tokohwayangpurwa.blogspot.com/,platform-level only,situs agregator - sumber asli pihak ketiga tidak diketahui
+bagong_0001,Bagong,screenshot,Instagram,,platform-level only,
+bagong_0002,Bagong,manual_download,Shopee,,platform-level only,kemungkinan foto produk kerajinan
+bima_0001,Bima,scraping,Google Images,,platform-level only,
+bima_0002,Bima,manual_download,Tokopedia,,platform-level only,kemungkinan foto produk kerajinan
+gareng_0001,Gareng,manual_download,Pinterest,,platform-level only,
+gareng_0002,Gareng,manual_download,Blog Aggregator,https://tokohwayangpurwa.blogspot.com/,platform-level only,situs agregator - sumber asli pihak ketiga tidak diketahui
+nakulasadewa_0001,NakulaSadewa,screenshot,Instagram,,platform-level only,kelas gabungan Nakula dan Sadewa
+petruk_0001,Petruk,scraping,Google Images,,platform-level only,
+petruk_0002,Petruk,manual_download,Shopee,,platform-level only,kemungkinan foto produk kerajinan
+semar_0001,Semar,manual_download,Pinterest,,platform-level only,
+semar_0002,Semar,manual_download,Blog Aggregator,https://tokohwayangpurwa.blogspot.com/,platform-level only,situs agregator - sumber asli pihak ketiga tidak diketahui
+yudhistira_0001,Yudhistira,screenshot,Tokopedia,,platform-level only,kemungkinan foto produk kerajinan
+yudhistira_0002,Yudhistira,scraping,Google Images,,platform-level only,

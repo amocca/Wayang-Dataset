@@ -42,7 +42,7 @@ Sampel. Populasi wayang kulit purwa gaya Jawa (khususnya gaya Surakarta/Yogyakar
 Citra digital format JPG/PNG, resolusi bervariasi (tidak diseragamkan pada tahap pengumpulan mentah).
 
 **Apakah ada label atau target terkait tiap instance?**
-Ya — nama kelas karakter (8 kelas, lihat tabel di atas), direpresentasikan melalui struktur folder (`data/{split}/{class_name}/`).
+Ya — nama kelas karakter (8 kelas, lihat tabel di atas), direpresentasikan melalui struktur folder (`data/{class_name}/`).
 
 **Apakah ada informasi yang hilang dari masing-masing instance?**
 Ya — sebagian besar instance tidak memiliki catatan URL sumber individual (lihat bagian Proses Pengumpulan).
@@ -62,7 +62,7 @@ Pinterest, Google Images, Instagram, Shopee, Tokopedia, serta kompilasi daring [
 Periode pengumpulan bertahap selama proses penyusunan tugas akhir; tanggal pasti per-citra tidak seluruhnya tercatat.
 
 **Keterbatasan Provenance (penting):**
-URL sumber individual untuk sebagian besar citra **tidak tercatat** pada saat pengumpulan, karena pencatatan sistematis belum diterapkan di tahap awal proyek. Informasi sumber yang tersedia di `annotations/provenance.csv` bersifat **platform-level** (berdasarkan ingatan penyusun), bukan tautan langsung yang terverifikasi per-gambar. Pengguna yang membutuhkan verifikasi sumber individual dapat melakukan reverse image search (Google Lens, TinEye).
+URL sumber individual untuk sebagian besar citra **tidak tercatat** pada saat pengumpulan, karena pencatatan sistematis belum diterapkan di tahap awal proyek. Informasi sumber yang tersedia di `provenance.csv` bersifat **platform-level** (berdasarkan ingatan penyusun), bukan tautan langsung yang terverifikasi per-gambar. Pengguna yang membutuhkan verifikasi sumber individual dapat melakukan reverse image search (Google Lens, TinEye).
 
 ## 4. Proses Anotasi (Pelabelan)
 
@@ -70,7 +70,7 @@ URL sumber individual untuk sebagian besar citra **tidak tercatat** pada saat pe
 Dilakukan oleh satu orang (penyusun dataset) tanpa anotator kedua. Ini merupakan keterbatasan yang diakui — tidak ada pengukuran *inter-annotator agreement* formal.
 
 **Bagaimana proses pelabelan dilakukan?**
-Pelabelan dilakukan berdasarkan identifikasi visual atribut karakteristik tiap tokoh wayang (bentuk wajah, mahkota/gelung, warna, aksesori/pusaka) dengan rujukan pada sumber referensi ikonografi wayang purwa gaya Surakarta/Yogyakarta. Lihat `docs/annotation_guidelines.md` untuk kriteria detail per kelas.
+Pelabelan dilakukan berdasarkan identifikasi visual atribut karakteristik tiap tokoh wayang (bentuk wajah, mahkota/gelung, warna, aksesori/pusaka) dengan rujukan pada sumber referensi ikonografi wayang purwa gaya Surakarta/Yogyakarta. Lihat `annotation_guidelines.md` untuk kriteria detail per kelas.
 
 **Bagaimana kasus ambigu ditangani?**
 Kasus paling signifikan adalah kemiripan visual Nakula–Sadewa, ditangani dengan penggabungan kelas (lihat bagian Komposisi).
